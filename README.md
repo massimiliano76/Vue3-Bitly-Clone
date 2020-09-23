@@ -62,10 +62,10 @@
 Just run and visit http://localhost:8080
 
 ```bash
-# Start server
+# Start server (make sure docker is running)
 docker-compose up
 
-# Make sur pnpm is installed or run npm install pnpm -g
+# Make sure pnpm is installed or run npm install pnpm -g
 cd front
 pnpm install
 pnpm run dev
