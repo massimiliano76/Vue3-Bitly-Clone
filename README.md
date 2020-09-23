@@ -14,7 +14,7 @@
 
 - 🌍 [i18n ready](./locales)
 
-- 🦾 TypeScrip
+- 🦾 TypeScript
 
 - ☁️ Deploy on Netlify, zero config
 
