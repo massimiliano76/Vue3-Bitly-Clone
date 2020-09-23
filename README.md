@@ -14,7 +14,7 @@
 
 - 🌍 [i18n ready](./locales)
 
-- 🦾 TypeScript, of course
+- 🦾 TypeScrip
 
 - ☁️ Deploy on Netlify, zero config
 
@@ -65,6 +65,7 @@ Just run and visit http://localhost:8080
 docker-compose up
 cd server
 # Make sur pnpm is installed : npm install pnpm -g
+pnpm install
 pnpm run dev
 ```
 
@@ -74,7 +75,7 @@ To build the App, run
 
 ```bash
 cd front
-pnpm build
+pnpm run build
 ```
 
 And you will see the genrated file in `dist` that ready to be served.
