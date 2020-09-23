@@ -1,4 +1,4 @@
-### Vue-3 first look : Bitly clone 
+# Vue-3 first look : Bitly clone 
 
 ## Features
 
@@ -54,16 +54,6 @@
   - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
   - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
-### Clone to local
-
-If you prefer do to it manually with cleaner git history
-
-```bash
-npx degit antfu/vitesse my-vitesse-app
-cd my-vitesse-app
-pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
-```
 
 ## Usage
 
