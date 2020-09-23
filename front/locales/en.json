@@ -1,0 +1,16 @@
+{
+	"button": {
+		"back": "Back",
+		"go": "GO"
+	},
+	"main": {
+		"title": "Short links, big results",
+		"sub-title": "A URL shortener built with powerful tools to help you grow and protect your brand.",
+		"shorten": "Shorten",
+		"type-your-link": "Type your link"
+	},
+	"not-found": {
+		"missing-page" : "Oops. This page has gone missing.",
+		"go-home" : "Go home"
+	}
+}
